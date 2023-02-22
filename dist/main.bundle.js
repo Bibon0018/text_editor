@@ -1,0 +1,1 @@
+(()=>{console.log("Kak interesno!");const e=document.createElement("h1");e.textContent="Kak interesno!",new toastui.Editor({el:document.querySelector("#editor"),previewStyle:"vertical",height:"500px",initialValue:"content"}),document.querySelector("#root").append(e)})();
